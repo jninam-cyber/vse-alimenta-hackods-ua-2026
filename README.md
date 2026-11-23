@@ -2,7 +2,7 @@
 
 **Prototipo web adaptable a celulares para conectar donantes de alimentos con comedores populares de Villa El Salvador.**
 
-Proyecto académico para **HackODS UA 2026**. Vinculado principalmente con el **ODS 2: Hambre Cero** y complementariamente con el **ODS 12: Producción y Consumo Responsables**.
+Proyecto académico para **HackODS UA 2026**. Vinculado principalmente con el **ODS 2: Hambre Cero** 
 
 > Los registros precargados son ficticios y sirven únicamente para demostrar el funcionamiento. El prototipo no representa una red real de donantes ni de comedores verificados.
 
@@ -173,10 +173,9 @@ python -m unittest discover -s tests -v
 
 | Integrante | Responsabilidades |
 |---|---|
-| Integrante 1 | Interfaz en `app.py`, formularios, diseño adaptable y demo de navegación. |
-| Integrante 2 | `database.py`, `matching.py`, pruebas, validación de reservas y documentación GitHub. |
+| Integrante 1 | Interfaz en `app.py`, formularios, diseño adaptable y demo de navegación. | `database.py`, `matching.py`, pruebas, validación de reservas y documentación GitHub. |
 
-Ambos deben revisar juntos el flujo completo antes de congelar el código.
+Se debe revisar el flujo completo antes de congelar el código.
 
 ## 9. Publicación en GitHub
 
