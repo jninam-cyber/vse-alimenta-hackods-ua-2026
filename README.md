@@ -186,7 +186,7 @@ git init
 git add .
 git commit -m "Primera versión funcional de VSE ALIMENTA"
 git branch -M main
-git remote add origin https://github.com/USUARIO/vse-alimenta-hackods-2026.git
+git remote add origin https://github.com/jninam-cyber/vse-alimenta-hackods-2026.git
 git push -u origin main
 ```
 
